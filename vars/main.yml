@@ -1,0 +1,9 @@
+---
+# vars file for provisionEC2
+
+accessKey: "Enter accesskey here"
+secretKey: "Enter secretkey here"
+OS_Name: 
+  - "k8s_Master"
+  - "k8s_Slave1"
+  - "k8s_Slave2"
